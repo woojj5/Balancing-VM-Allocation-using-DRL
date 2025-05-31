@@ -105,29 +105,3 @@ python Allocation_Q.py
 MIT License
 
 ---
-
-## 문의
-
-이슈 또는 PR로 문의/기여해 주세요!
-
----
-
-## Contributors
-
-- @user1
-- @user2
-- @user3
-- @user4
-
----
-
-**© 2025 RL_VM_Allocation Team**
-
-<div style="text-align: center">⁂</div>
-
-[^1]: image.jpg
-
-[^2]: image.jpg
-
-[^3]: paste-3.txt
-

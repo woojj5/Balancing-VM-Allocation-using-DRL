@@ -1,11 +1,9 @@
 # Balancing-VM-Allocation-using-DRL
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 이런식으로 바꿔봐라
-
-아래는 실제 GitHub README에서 자주 사용하는 템플릿과, 요청하신 상세 프로젝트 소개 및 폴더 구조, 역할 분담, 개발 환경, 작업 관리 등 항목을 반영한 예시입니다.
-**RL_VM_Allocation** 프로젝트에 맞게 예시를 작성했습니다.
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQLite3](https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
